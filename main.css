@@ -1,0 +1,19 @@
+h1 {
+			text-align: center;
+			font-family: "Ubuntu", sans-serif;
+			font-size: 3.5rem;
+		}
+		h2 {
+			text-align: left;
+			font-family: "Raleway", sans-serif;
+			margin-left: 2rem;
+			font-size: 1.75rem;
+			margin-top: 1.5rem;
+		}
+		p {
+			text-align: justify;
+			font-family: "Raleway", sans-serif;
+			margin-left: 3rem;
+			margin-right: 3rem;
+			font-size: 1rem;
+		}
